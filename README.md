@@ -29,3 +29,15 @@ Admin Account:
 - Username: ritikkumar
 - Password: ritikkumar
 
+Some Screenshot of Blog Web Application:- 
+Home page ![Screenshot (435)](https://github.com/RitikKumar121/assignmentIK/assets/73395641/0e6d8eab-24d8-4a9b-914c-ca486b1250fc)
+
+Blog Page ![Screenshot (436)](https://github.com/RitikKumar121/assignmentIK/assets/73395641/94a763f2-e03d-4754-980d-909fc6ae0e65)
+
+Blog Page Post ![Screenshot (437)](https://github.com/RitikKumar121/assignmentIK/assets/73395641/622b7584-cead-4481-a979-48addfdf60f0)
+
+About ![Screenshot (438)](https://github.com/RitikKumar121/assignmentIK/assets/73395641/5adee750-69b3-46e1-b092-ad4ad1453838)
+
+
+
+
