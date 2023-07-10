@@ -1,0 +1,15 @@
+{% extends 'base.html' %}
+{% block title %} Blogpost{% endblock title %}
+{% load static %}
+
+{% block body %}
+
+
+<div class="container my-3">
+<p class="blog-post-meta">&#x23F2;{{post.timeStamp}} by <a href="https://www.linkedin.com/in/ritik-kumar-2bab2b1b8/" target="blank">{{post.author}}</a></p>
+    <h3 class="mb-0">{{ post.title }}</h3>
+
+    <p>{{post.content|safe}}</p>
+    <hr>
+</div>
+ {% endblock body %}
