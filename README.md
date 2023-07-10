@@ -37,6 +37,9 @@ Blog Page ![Screenshot (436)](https://github.com/RitikKumar121/assignmentIK/asse
 Blog Page Post ![Screenshot (437)](https://github.com/RitikKumar121/assignmentIK/assets/73395641/622b7584-cead-4481-a979-48addfdf60f0)
 
 About ![Screenshot (438)](https://github.com/RitikKumar121/assignmentIK/assets/73395641/5adee750-69b3-46e1-b092-ad4ad1453838)
+Admin Panel 1 ![Screenshot (440)](https://github.com/RitikKumar121/assignmentIK/assets/73395641/7afc48d1-c0fa-4499-bb31-ceb1b37fc40e)
+Admin Panel 2 ![Screenshot (441)](https://github.com/RitikKumar121/assignmentIK/assets/73395641/587e2f72-407c-4501-b706-797c15d35bef)
+
 
 
 
